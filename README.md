@@ -49,8 +49,3 @@ O arquivo `Trabalho_1___Demog_revisado_corrigido_bib.zip` contém a versão fina
 - IBGE: Projeções da População - Revisão 2024.
 - IBGE: Censo Demográfico 2022.
 
-## Observações
-
-Os materiais de aula, provas antigas e bibliografia disponibilizada pela disciplina não foram publicados neste repositório. O objetivo aqui é manter apenas os códigos, bases de trabalho, saídas produzidas e relatório final do trabalho.
-
-Os dados de 2024 devem ser interpretados com cautela, pois podem estar sujeitos a atualização nas bases do DATASUS.
