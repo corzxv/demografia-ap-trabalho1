@@ -33,7 +33,6 @@ demografia_ap/
 relatorio_overleaf/  # projeto LaTeX final para Overleaf
 ```
 
-O arquivo `Trabalho_1___Demog_revisado_corrigido_bib.zip` contém a versão final do projeto Overleaf, já revisada.
 
 ## Scripts principais
 
